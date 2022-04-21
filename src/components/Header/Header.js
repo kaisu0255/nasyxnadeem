@@ -55,7 +55,7 @@ const Header = () => {
             }}
           >
             <Img src="./images/pp4.png"></Img>
-            <Span>&nbsp;Nasyx Nadeem</Span>
+            <Span>&nbsp;KAISAR LONE</Span>
           </a>
         </Link>
         <Div7></Div7>

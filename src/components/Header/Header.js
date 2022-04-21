@@ -84,10 +84,10 @@ const Header = () => {
           <SocialIcons href="https://github.com">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/kaisar-irshad-lone-549064222/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://instagram.com">
+          <SocialIcons href="https://www.instagram.com/kmr_kaisu.11x/">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </Div3>
@@ -130,10 +130,10 @@ const Header = () => {
             <SocialIcons href="https://github.com">
               <AiFillGithub size="3rem" />
             </SocialIcons>
-            <SocialIcons href="https://linkedin.com">
+            <SocialIcons href="https://www.linkedin.com/in/kaisar-irshad-lone-549064222/">
               <AiFillLinkedin size="3rem" />
             </SocialIcons>
-            <SocialIcons href="https://instagram.com">
+            <SocialIcons href="https://www.instagram.com/kmr_kaisu.11x/">
               <AiFillInstagram size="3rem" />
             </SocialIcons>
           </Div6>

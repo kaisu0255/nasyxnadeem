@@ -13,7 +13,7 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br />
-        My personal Portoflio
+        My personal Portfolio
       </SectionTitle>
       <SectionText>
         My purpose is to build clean architecture webapps that can perform at
